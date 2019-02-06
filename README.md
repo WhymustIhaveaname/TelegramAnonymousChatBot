@@ -12,4 +12,5 @@ Features:
     
 Donation:
 ---------
-    * btc:
+    * btc:3P4qND9E4pu4T8JnXNXUUPEszWDMqN1C5W
+    * xmr:43hQcAFbKtNRiH8ACAFwoNURardECFhpGUxKLKNzB7hRCttk7wXWrPZ5fxYgRCM6uZjGPUn9S6qEoWk4qUVdg8krHRuXwwo
